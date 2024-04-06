@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "advanced-information-retrival"
+name = "advanced-information-retreival"
 version = "0.1.0"
 description = ""
 authors = ["custibor99 <cus.tibor@outlook.com>"]
